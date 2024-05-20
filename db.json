@@ -1,0 +1,110 @@
+{
+  "products": [
+    { 
+      "id": 1, 
+      "title": "Apple AirPods (3rd generation) ", 
+        "description": "The sound circulates around you to create an immersive, three-dimensional experience with music, shows, and movies. The gyroscopes and accelerometers of the AirPods work together to detect the slightest movements of your head and give the sensation of being in the center of the action. It adjusts the music to the shape of your ear. Inward-facing microphones detect what you're listening to and adjust the low and mid frequencies to deliver high-fidelity details in every song. The AirPods have one extra hour of battery life compared to AirPods (2nd generation) and offer up to six hours of audio and up to four hours of talk time. With just five minutes of charging, you gain an hour of talk or audio time. And with the Lightning charging case, you can enjoy up to 30 hours of audio.",
+      "price": 129,
+      "type": "airpods"
+    },
+    { 
+      "id": 2, 
+      "title": "GMMK PRO", 
+      "description": "GMMK PRO is the go-to DIY kit for building your own keyboard with excellent features and build quality - Award-winning mechanical gaming keyboard base with enthusiast components and unmatched build quality. This 75% keyboard base is fully customizable to your perfect look, sound, and feel.",
+      "price": 379.99,
+      "type": "keyboard"
+    },
+    { 
+      "id": 3, 
+      "title": "MacBook M3 PRO - Silver", 
+        "description": "11-Core CPU \n14-Core GPU \n18GB Unified Memory 512GB SSD Storage¹  14-inch Liquid Retina XDR display² - Three Thunderbolt 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port Magic Keyboard with Touch ID Force Touch trackpad\n70W USB-C Power Adapter",
+      "price": 1599.00,
+      "type": "macbook"
+    },
+    { 
+      "id": 4, 
+      "title": "Sennheiser HD 620S Headphones", 
+      "description": "Discover the Sennheiser HD 620S Closed-Back Dynamic Headphones at Headphones.com, where high-performance audio meets the intimacy of a closed-back design without sacrificing the expansiveness typically reserved for open-back models. Sennheiser redefines what is possible with the HD 620S, crafting an auditory experience that turns distraction off and a speaker-like open sound on. This model is perfect for the audiophile who demands a pristine sound environment even in the busiest settings. With the HD 620S, Sennheiser delivers reference-level detail, engaging dynamics, and panoramic soundstage in a design that keeps the outside world precisely where it belongs—out.",
+      "price": 349.95,
+      "type": "headphones"
+    },
+    { 
+      "id": 5, 
+      "title": "Apple iPhone X 64GB GSM", 
+      "description": "Our vision has always been to create an iPhone that is entirely screen. One so immersive the device itself disappears into the experience. And so intelligent it can respond to a tap, your voice, and even a glance. With iPhone X, that vision is now a reality. Say hello to the future.",
+      "price": 153.47,
+      "type": "iphoneX"
+    },
+    { 
+      "id": 6, 
+      "title": "Nintendo Entertainment System", 
+      "description": "Play over 100 titles on your Nintendo Switch console, Enjoy a selection of over 80 classic NES™ and Super NES™ titles, including Super Mario Bros.™, Metroid™, The Legend of Zelda™, Donkey Kong™ and more. Additionally, you can compete (or cooperate) online with friends, share your screen or virtually pass the controller, depending on the game.",
+      "price": 279.99,
+      "type": "nitendo"
+    },
+    { 
+      "id": 7, 
+      "title": "NES Controller", 
+      "description": "Enjoy enhanced Super NES™ games the way they're meant to be played—using a full-size Super Nintendo Entertainment System style controller! Available for purchase only by Nintendo Switch Online members, this wireless controller offers the perfect way to play these classic Super NES games.",
+      "price": 29.99,
+      "type": "NES"
+     },
+    {
+          "id": 8,
+          "title": "LG UltraWide (3440x1440)",
+          "description": "Boost your workflow with the LG UltraWide 35\" 1440p HDR. Featuring a curved design and a 3440 x 1440 QHD resolution with a 21:9 aspect ratio, this monitor is designed to fill your field of view while providing plenty of space to multitask productivity applications and windows. High-dynamic range support adds bright highlights and deep shadows to photos and videos while AMD FreeSync technology works with the 100 Hz refresh rate to reduce motion blur, screen tearing, and stuttering from fast-paced games with compatible graphics cards. Additionally, the MaxxAudio enhanced stereo speaker system is designed to immerse you in music and entertainment.",
+          "price": 399.00,
+          "type": "ultrawide"
+      },
+      {
+          "id": 9,
+          "title": "CPU - Full White",
+          "description": "INTEL Core i7 12700F 2.1GHz (4.9GHz Max Boost) CPU Processor | 1TB NVME SSD – Up to 30x Faster Than Traditional HDD | 240mm AIO NVIDIA Geforce RTX 4060 8GB GDDR6X Graphics Card (Brand may vary) | 16GB DDR4 RAM 3200 Gaming Memory with Heat Spreader | Windows 11 Home 64-bit",
+          "price": 129.99,
+          "type": "computer"
+      },
+      {
+          "id": 10,
+          "title": "Ergonomic Office Chair",
+          "description": "KERDOM Ergonomic Office Chair, Breathable Mesh Desk Chair, Low Back Support Computer Chair with Headrest and Folding Arms, Swivel Chair, Height- Adjustable Gaming Chair, Pink",
+          "price": 129.99,
+          "type": "chair"
+      },
+      {
+          "id": 11,
+          "title": "Secretlab - Ash",
+          "description": "The Secretlab TITAN Evo gives a new level of personalized support and unrivaled performance. With cutting-edge engineering technologies for advanced designs. Premium bespoke materials more durable than ever before. Designed with pro-grade ergonomics for serious performance. This is the gaming chair with everything to do it all.",
+          "price": 549.00,
+          "type": "GamerChair"
+      },
+      {
+          "id": 12,
+          "title": "iPhone 12 Pro - Pacific Blue",
+          "description": "A fast and powerful chip. A14 Bionic makes everything from gaming to photo editing extremely fluid, and enables things like 4K Dolby Vision recording. Incredible efficiency gives you all these advanced capabilities while still providing great battery life. It also brings the latest AR experiences to life - from reliving the NASA Apple space missions to trying out a new couch. Great battery life -Do more on a single charge thanks to the powerfully efficient A14 Bionic chip. Up to 17 hours of video playback on iPhone 12 Pro. Smart data mode switches from 5G to LTE when you don’t need 5G speeds, conserving battery life.",
+          "price": 849.00,
+          "type": "iphone12"
+      },
+      {
+          "id": 13,
+          "title": "iPhone 13 Pro - Sierra Blue",
+          "description": "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. Let’s Pro.",
+          "price": 849.00,
+          "type": "iphone13"
+      },
+      {
+          "id": 14,
+          "title": "iPhone 14 Pro Max - Gold",
+          "description": "This item is used in good condition. Utilize the iPhone 14 Pro Max to capture stunning photos with its new 48MP main camera and get a peace of mind with groundbreaking safety features. This item is used and has been fully tested by certified technicians and is in good condition with normal wear. It is possible to have some minor blemishes including scratches, scuffs, and dings.",
+          "price": 859.08,
+          "type": "iphone14"
+      },
+      {
+          "id": 15,
+          "title": "iPhone 15 Pro Max - Black Titanium",
+          "description": "The iPhone 15 Pro Max is truly a milestone of innovation and technological excellence. From its sleek design to its exceptional performance, it redefines the standards of the smartphone industry. Its high-resolution display provides an immersive visual experience, ensuring vibrant colors and crisp details in every image and video. The camera of the iPhone 15 Pro Max takes mobile photography to a whole new level, capturing moments with stunning clarity and precision, even in low-light conditions.",
+          "price": 1749.00,
+          "type": "iphone15"
+      }
+  ]
+  
+}
